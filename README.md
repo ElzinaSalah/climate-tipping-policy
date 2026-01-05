@@ -90,6 +90,49 @@ This repository represents an independent research attempt. All results are illu
 Climate & Environmental Economics  
 GitHub: https://github.com/ElzinaSalah
 
+---
+## Refrences
+Lenton, T. M., et al. (2008).
+Tipping elements in the Earth’s climate system.
+Proceedings of the National Academy of Sciences, 105(6), 1786–1793.
+
+Lenton, T. M., et al. (2019).
+Climate tipping points — too risky to bet against.
+Nature, 575, 592–595.
+
+Armstrong McKay, D. I., et al. (2022).
+Exceeding 1.5°C global warming could trigger multiple climate tipping points.
+Science, 377(6611).
+
+Lemoine, D., & Traeger, C. (2014).
+Watch your step: Optimal policy in a tipping climate.
+American Economic Journal: Economic Policy, 6(1), 137–166.
+
+Cai, Y., Judd, K. L., & Lontzek, T. S. (2016).
+The social cost of carbon with economic and climate risks.
+Journal of Political Economy, 124(5), 1445–1487.
+
+Dietz, S., Rising, J., Stoerk, T., & Wagner, G. (2021).
+Economic impacts of tipping points in the climate system.
+Proceedings of the National Academy of Sciences, 118(34).
+
+Archer, D. (2005).
+Fate of fossil fuel CO₂ in geologic time.
+Journal of Geophysical Research, 110(C9).
+
+Joos, F., et al. (2013).
+Carbon dioxide and climate impulse response functions for the computation of greenhouse gas metrics.
+Atmospheric Chemistry and Physics, 13, 2793–2825.
+
+Nordhaus, W. D. (2015).
+Climate clubs: Overcoming free-riding in international climate policy.
+American Economic Review, 105(4), 1339–1370.
+
+Stern, N. (2007).
+The Economics of Climate Change: The Stern Review.
+Cambridge University Press.
+
+---
 ## Repository Structure
 
 ``` 
